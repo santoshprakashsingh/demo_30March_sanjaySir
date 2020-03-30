@@ -18,6 +18,7 @@ public class GooglePractice {
 		System.out.println(" Title " + driver.getTitle());
 	//	System.out.println(" Get Page Source " + driver.getPageSource());
 		System.out.println( "Window Handle "  + driver.getWindowHandles());
+		System.out.println(" Run completed");
 		
 	}
 

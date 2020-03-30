@@ -41,6 +41,7 @@ public class MercuryToursAssignment {
 		Assert.assertEquals(driver.getTitle(), "Register: Mercury Tours");
 	//	System.out.println(" Get Page Source " + driver.getPageSource());
 		System.out.println( "Window Handle "  + driver.getWindowHandles());
+		System.out.println(" Testing Completed ");
 		
 	}
 
