@@ -14,7 +14,6 @@ When When User enter  "santosh123@gmail.com" and "55@123"
 Then User click  submit button in Myntra
 And User is able to view Myntra page
 
-
 @SecondTestScenario
 Scenario: Myntra login page login scenario by Data Table
 Given User  on Myntra login page
